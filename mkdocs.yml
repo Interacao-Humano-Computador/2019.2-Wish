@@ -1,0 +1,23 @@
+ 
+
+site_name: IHC 2019.2
+site_description: Repositório da disciplina de IHC 2019.2
+repo_url: https://github.com/ebmm01/ihc
+site_dir: site
+copyright: Copyright &copy; 2019, <a href="https://github.com/ebmm01/ihc/">IHC 2019.2</a>.
+dev_addr: ‘0.0.0.0:8000
+theme:
+  name: 'material'
+  palette:
+    primary: 'white'
+
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/ebmm01/ihc'
+
+plugins:
+  - search
+
+pages:
+  - Home: 'index.md'
