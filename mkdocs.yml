@@ -1,23 +1,30 @@
- 
-
 site_name: IHC 2019.2
 site_description: Repositório da disciplina de IHC 2019.2
-repo_url: https://github.com/ebmm01/ihc
+repo_url: https://github.com/Interacao-Humano-Computador/2019.2-Wish
 site_dir: site
-copyright: Copyright &copy; 2019, <a href="https://github.com/ebmm01/ihc/">IHC 2019.2</a>.
+copyright: Copyright &copy; 2019, <a href="https://github.com/Interacao-Humano-Computador/2019.2-Wish">IHC 2019.2</a>.
 dev_addr: ‘0.0.0.0:8000
 theme:
   name: 'material'
+  logo: assets/img/logo.png
+  favicon: favicon.ico
   palette:
     primary: 'white'
 
 extra:
   social:
     - type: 'github'
-      link: 'https://github.com/ebmm01/ihc'
+      link: 'https://github.com/Interacao-Humano-Computador/2019.2-Wish'
 
 plugins:
   - search
 
+extra_css:
+  - assets/css/extra.css
+
 pages:
   - Home: 'index.md'
+  - Sprint 01:
+      - Escolha do Site: 'sprint01/escolha.md'
+      - Guia de Estilo: 'sprint01/guia.md'
+      - Storyboard: 'sprint01/storyboard.md'
