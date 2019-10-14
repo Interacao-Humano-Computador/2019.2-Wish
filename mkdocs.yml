@@ -27,4 +27,5 @@ pages:
   - Sprint 01:
       - Escolha do Site: 'sprint01/escolha.md'
       - Guia de Estilo: 'sprint01/guia.md'
+      - Heurísticas: 'sprint01/heuristicas.md'
       - Storyboard: 'sprint01/storyboard.md'
