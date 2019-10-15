@@ -29,3 +29,5 @@ pages:
   - Heurísticas: 'sprint01/heuristicas.md'
   - Storyboard: 'sprint01/storyboard.md'
   - Metas de Usabilidade: 'sprint01/metas.md'
+  - Perfil do usuário:
+    - Instrospecção: 'sprint01/introspeccao.md'
