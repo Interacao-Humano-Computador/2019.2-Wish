@@ -24,8 +24,8 @@ extra_css:
 
 pages:
   - Home: 'index.md'
-  - Sprint 01:
-      - Escolha do Site: 'sprint01/escolha.md'
-      - Guia de Estilo: 'sprint01/guia.md'
-      - Heurísticas: 'sprint01/heuristicas.md'
-      - Storyboard: 'sprint01/storyboard.md'
+  - Escolha do site & processo de design: 'sprint01/escolha.md'
+  - Guia de Estilo: 'sprint01/guia.md'
+  - Heurísticas: 'sprint01/heuristicas.md'
+  - Storyboard: 'sprint01/storyboard.md'
+  - Metas de Usabilidade: 'sprint01/metas.md'
