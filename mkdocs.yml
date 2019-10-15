@@ -30,6 +30,7 @@ pages:
   - Storyboard: 'sprint01/storyboard.md'
   - Metas de Usabilidade: 'sprint01/metas.md'
   - Análise de Tarefas: 'sprint01/analise.md'
+  - Características da Plataforma: 'sprint01/caracteristicas-plataforma.md'
   - Perfil do usuário:
     - Instrospecção: 'sprint01/introspeccao.md'
     - Perfil de usuário: 'sprint01/perfil.md'
