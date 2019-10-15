@@ -54,7 +54,7 @@ ___
 |--|--|
 |__Nome:__ | Paula  |
 |__Profissão:__ | Aposentada |
-|__Escolaridade:__ | Ensino Superior completo |
+|__Escolaridade:__ | Ensino fundamental |
 |__Nível de conhecimento sobre o site:__ | Nenhum |
 |__Intenção ao usar o site:__ | Comprar produtos para o seu neto  |
 |__História e contexto:__ | Paula é uma senhora que não possui muita afinidade com a internet. Porém agora que seu neto nasceu, ela quer persentear sua filha com vários mimos para a criança. Um amiga falou para ela que ela poderia encontrar produtos mais baratos na internet. Contrariada, pois preferia ir numa loja comprar, acabou cedendo pois não queria pedir para ninguém para a levar numa loja. Após muito buscar, acabou encontrando o site __Wish__. Passada a dificulade inicial do cadastro, ela acabou colocando vários produtos no carrinho e gerando o boleto para o pagamento. Apesar de tudo ela teve uma boa experiência de uso. |
