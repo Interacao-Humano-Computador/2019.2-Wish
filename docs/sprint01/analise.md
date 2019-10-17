@@ -54,4 +54,4 @@ Logo abaixo, foi realizado a análise de Consulta de um Valor de Produto, como o
 
 ## Referências
 [1] Barbosa, S. D. J.; Silva, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
-[2] https://www.maxwell.vrac.puc-rio.br/18627/18627_5.PDF
+[2] Alcar. Linguagens de Modelagem de IHC. Disponível em: https://www.maxwell.vrac.puc-rio.br/18627/18627_5.PDF
