@@ -1,17 +1,9 @@
-# Características da Plataforma 
+# Características da Plataforma
 
-## Introdução
-Busca descrever e analisar um pouco mais profundamente a aplicação escolhida pelo grupo, no caso, o site de compras da China, Wish.
+A plataforma escolhida é um app web / app mobile do tipo e-commerce. Os produtos apresentados para venda na plataforma são de terceiros, ou seja, a plataforma provê uma conexão entre vendedores e clientes.
 
-## Sobre
-O Wish é um site de venda de produtos vindos da China, geralmente com grandes valores de desconto, chegando a vender produtos de "graça" com os compradores pagando apenas o frete. A aplicação não tem estoque de produtos e também não vende produtos que eles mesmo produzam, a aplicação é apenas um intermediário entre vendedores e compradores.
+A aplicação roda satisfatóriamente nos navegadores web mais modernos como Firefox, Chrome ou Opera e é contruído de forma a ser responsivo, podendo ser aberto no navegador mobile sem que haja prejuízo na experiência. A aplicação tambem possui um aplicativo para Android e Iphone.
 
-## Visuais
+Os aplicativos mobile possuem boa responsividade e rodam sem causar prejuízo de desempenho no aparelho celular, embora apresente um tempo para o carregamento dos produtos ligeiramente maior que o tempo de carregamento da versão web. A versão mobile também possui um sistema simples de filtros que não está presente na sua versão web.
 
-O site possui um design simples, com uma predominância de cores neutras próximas ao branco e até mesmo branco puro, possui na paleta de cores também o azul da logo e alguns detalhes em laranja que no caso é uma cor complementar do azul.
-
-O design pelo resto da aplicação é concistente e não apresenta problemas com falta de padrão de design
-
-## Comportamentais
-
-A primeira característica comportamental é vista logo ao se entrar no site, que imediatamente te obriga a realizar login na aplicação para que se possa navegar pelo site e vizualiar os produtos. Outra característica que pode ser um empecílio para o usuário na hora de realizar a compra, é que os cards dos items não possuem nome ou descrição sobre o que se trata o produto.
+A aplicação possui integração com Facebook e Google para realizar o login na plataforma. Além disso o site realiza recomendações de promoções diárias, divisão de produtos por categorias e níveis de promoção. É possível perceber elementos de gamificação na aplicação para trazer mais engajamento para a plataforma, alguns exemplos são: Contador de acessos em sequência para motivar o usuário a acessar o site diariamente, um contador de tempo nas promoções para incentivar o usuário a realizar compras por impulso e rodas de prêmios que retêm o usuário por mais tempo na aplicação em troca da chance de ganhar mais descontos.
