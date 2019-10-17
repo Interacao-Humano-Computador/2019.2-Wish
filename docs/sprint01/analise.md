@@ -14,11 +14,11 @@ A Análise Hierárquica de Tarefas analisa os objetivos de alto nível e os deco
 
 No site do Wish analisaremos o objetivo de realização de uma compra.
 
-## Diagrama HTA para Realizar uma Compra
+### Diagrama HTA para Realizar uma Compra
 
 ![Image](../assets/img/analise.png)
 
-## Representação de Tarefas para o Objetivo Realizar uma Compra
+### Representação de Tarefas para o Objetivo Realizar uma Compra
 
 |Objetivo/Operações|Problemas e Recomendações|
 |-|-|
@@ -41,7 +41,17 @@ No site do Wish analisaremos o objetivo de realização de uma compra.
 |3.1.1 Confirmar cadastro|ação: apertar o botão de cadastrar|
 |3.2 Verificar se o campo foi preenchido corretamente||
 
+## ConcurTaskTree (CTT)
 
+O modelo da ConcurTaskTree foi criado com o objetivo de auxiliar na avaliação de IHC. É um modelo que combina estruturas hierárquica de tarefas
+concorrentes com um conjunto de operadores temporais. [2]
+
+A vantagem dentro do CTT é a possibilidade de registrar as relações entre as tarefas de forma mais clara.
+
+Logo abaixo, foi realizado a análise de Consulta de um Valor de Produto, como objetivo do usuário.
+
+![Image](../assets/img/concurtasktree.png)
 
 ## Referências
 [1] Barbosa, S. D. J.; Silva, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
+[2] https://www.maxwell.vrac.puc-rio.br/18627/18627_5.PDF
