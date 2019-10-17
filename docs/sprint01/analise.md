@@ -22,7 +22,7 @@ No site do Wish analisaremos o objetivo de realização de uma compra.
 
 |Objetivo/Operações|Problemas e Recomendações|
 |-|-|
-|0. Realizar Compra 1/2|plano: realizar login ou cadastro e depois escolher o produto da loja|
+|0. Realizar Compra 1/2|input: Compra Realizada pelo o usuário com o pagamento feito.<br>plano: realizar login ou cadastro e depois escolher o produto da loja|
 |1. Logar no sistema 1+2|ação: informar tipo de login<br>recomendação1: email e senha<br>recomendação2: facebook <br>recomendação3: Google|
 |1.1 Verificar se o campo foi preenchido corretamente||
 |1.2 Informar email e senha|plano: informar email e senha|
@@ -54,4 +54,5 @@ Logo abaixo, foi realizado a análise de Consulta de um Valor de Produto, como o
 
 ## Referências
 [1] Barbosa, S. D. J.; Silva, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
+
 [2] Alcar. Linguagens de Modelagem de IHC. Disponível em: https://www.maxwell.vrac.puc-rio.br/18627/18627_5.PDF
