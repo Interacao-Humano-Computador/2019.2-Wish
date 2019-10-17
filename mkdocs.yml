@@ -29,7 +29,12 @@ pages:
   - Heurísticas: 'sprint01/heuristicas.md'
   - Storyboard: 'sprint01/storyboard.md'
   - Metas de Usabilidade: 'sprint01/metas.md'
+  - RichPicture: 'sprint01/rich.md'
   - Análise de Tarefas: 'sprint01/analise.md'
+  - Características da Plataforma: 'sprint01/caracteristicas-plataforma.md'
+  - Requisitos elicitados: 'sprint01/requisitos.md'
+  - Princípios do Projeto: 'sprint01/Principios_Projeto.md'
   - Perfil do usuário:
     - Instrospecção: 'sprint01/introspeccao.md'
     - Perfil de usuário: 'sprint01/perfil.md'
+    - Questionário: 'sprint01/questionario.md'
