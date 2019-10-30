@@ -1,5 +1,5 @@
 <template>
-    <div class="card-item">
+    <div class="card-item" @click="activeDialog">
         <img :src="img" alt="">
         <div>
             <p class="mb-1">{{value}}<small class="risked"> {{nonvalue}}</small></p>
@@ -20,6 +20,11 @@ export default {
         nonvalue: {
             type: String
         },
+    },
+    methods: {
+        activeDialog() {
+            this.$emit('activeDialog')
+        }
     }
 }
 </script>
@@ -33,6 +38,7 @@ export default {
     background: white;
     box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 2px 20px 0px;
     transition: all 0.3s ease;
+    cursor: pointer;
 
     &:hover {
         transform: scale(1.05);

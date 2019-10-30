@@ -29,5 +29,18 @@ export default {
 
 body * {
     font-family: 'Noto Sans', sans-serif;
+
+    ::-webkit-scrollbar {
+        width: 8px;
+    }
+    
+    ::-webkit-scrollbar-track {
+        background: white;
+    }
+    
+    ::-webkit-scrollbar-thumb {
+        border-radius: 10px;
+        background: #d4e3eb;
+    }
 }
 </style>
