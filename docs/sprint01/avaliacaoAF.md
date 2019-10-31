@@ -2,9 +2,20 @@
 
 ## Objetivo da Avaliação
 
+A avaliação tem por objetivo identificar problemas na interação e na interface que prejudiquem a qualidade de uso do sistema. Buscando entender como o usuário se comporta em contato com a ferramenta de forma a identificar possíveis falhas no design que afetem o usuário, o impedindo ou atrapalhando a experiência com o sistema. 
+
 ## Escopo da Avaliação
 
+A avaliação se dará por observação do uso do protótipo de forma que seja possível identificar os possíveis erros de design. Os passos que deverão ser realizados são em boa parte parecidos com os passos que um usuário real eria na aplicação, com os devidos ajustes.
+
+- Acessar lista de produtos sem ter de realizar o login
+- Realizar login na plataforma
+- Identificar do que se trata o anúncio
+- Realizar uma compra pelo site
+
 ## Metodologia da Avaliação
+
+Coletar dados através da observação em laboratório do usuário ao tentar realizar as tarefas solicitadas. De forma que possam ser coletados dados para a análise posterior da interface.  
 
 ## GQM
 GQM é uma ferramenta utilizada para um sistema de metrificação direcionado por objetivos e possui normalmente 6 passos. É bastante utilizado na Engenharia de Software para planejar medições.
