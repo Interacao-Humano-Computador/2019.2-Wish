@@ -38,4 +38,6 @@ pages:
     - Instrospecção: 'sprint01/introspeccao.md'
     - Perfil de usuário: 'sprint01/perfil.md'
     - Questionário: 'sprint01/questionario.md'
-  - Protótipo de alta fidelidade: 'sprint01/prototipo_alta.md'
+  - Protótipo de Alta Fidelidade:
+    - Protótipo: 'sprint01/prototipo_alta.md'
+    - Avaliação do Protótipo: 'sprint01/avaliacaoAF.md'
