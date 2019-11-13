@@ -3,7 +3,10 @@
     <NavbarWish/>
 
     <v-content>
-      <router-view></router-view>
+        <transition name="scroll-y-reverse-transition" mode="out-in">
+            <router-view></router-view>
+        </transition>
+      
     </v-content>
   </v-app>
 </template>
