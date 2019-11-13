@@ -19,8 +19,9 @@
             </v-btn>
             <v-btn
                 depressed=""
-                color="#2fb7ec"
-                class="ml-4 btn-nav white--text"
+                color="#0E6F95"
+                class="ml-4 btn-nav white--text "
+                style="font-weight: bold"
                 href="#">
                 Cadastrar
             </v-btn>

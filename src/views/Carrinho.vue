@@ -182,9 +182,10 @@ export default {
         preco1: "R$50,00 BRL",
         img2: "https://contestimg.wish.com/api/webimage/5d1b3b26136dca0a8f73ec28-0-feed?cache_buster=b9897f1238cd4b23afa9179872bbc87c&cozy=1",
         text2: "Pendriver Kingstion - 32GB removível a prova dágua",
-        preco3: "R$48,00 BRL",
+        preco2: "R$48,00 BRL",
         img3: "https://contestimg.wish.com/api/webimage/5d5a37de1e1d981d24fe02b0-0-feed?cache_buster=2a24fbacbc06b5f29572fd41b2403442&cozy=1",
         text3: "Relógio Dourado WaterProof Mans - Cronômetro, despertador, analógico",
+        preco3: "R$15,00 BRL",
     }),
     methods: {
         activeDialogLocal(img, text) {

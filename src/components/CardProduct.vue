@@ -67,7 +67,7 @@ export default {
             padding-left: 10px;
             font-size: 13px;
             text-decoration: line-through;
-            color: rgb(126, 154, 166);
+            color: black;
         }
     }
 
