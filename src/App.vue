@@ -3,24 +3,20 @@
     <NavbarWish/>
 
     <v-content>
-      <HelloWorld/>
+      <router-view></router-view>
     </v-content>
   </v-app>
 </template>
 
 <script>
 import NavbarWish from './components/NavbarWish'
-import HelloWorld from './components/HelloWorld';
 
 export default {
   name: 'App',
   components: {
-    HelloWorld,
     NavbarWish
   },
-  data: () => ({
-    //
-  }),
+  data: () => ({}),
 };
 </script>
 
