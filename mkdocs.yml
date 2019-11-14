@@ -42,3 +42,4 @@ pages:
     - Protótipo: 'sprint01/prototipo_alta.md'
     - Avaliação do Protótipo: 'sprint01/avaliacaoAF.md'
     - Teste de Usabilidade: 'sprint01/teste.md'
+    - Análise Google Lighthouse: 'sprint01/lighthouse.md'
