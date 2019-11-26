@@ -24,16 +24,19 @@ extra_css:
 
 pages:
   - Home: 'index.md'
-  - Escolha do site & processo de design: 'sprint01/escolha.md'
-  - Guia de Estilo: 'sprint01/guia.md'
-  - Heurísticas: 'sprint01/heuristicas.md'
-  - Storyboard: 'sprint01/storyboard.md'
-  - Metas de Usabilidade: 'sprint01/metas.md'
-  - RichPicture: 'sprint01/rich.md'
-  - Análise de Tarefas: 'sprint01/analise.md'
-  - Características da Plataforma: 'sprint01/caracteristicas-plataforma.md'
-  - Requisitos elicitados: 'sprint01/requisitos.md'
-  - Princípios do Projeto: 'sprint01/Principios_Projeto.md'
+  - Planejamento & Heurísticas:
+    - Escolha do site & processo de design: 'sprint01/escolha.md'
+    - Heurísticas: 'sprint01/heuristicas.md'    
+    - Metas de Usabilidade: 'sprint01/metas.md'
+  - Análise de requisitos:
+    - Storyboard: 'sprint01/storyboard.md'
+    - RichPicture: 'sprint01/rich.md'
+    - Guia de Estilo: 'sprint01/guia.md'
+    - Requisitos elicitados: 'sprint01/requisitos.md'
+  - Projeto e plataforma:
+    - Características da Plataforma: 'sprint01/caracteristicas-plataforma.md'
+    - Análise de Tarefas: 'sprint01/analise.md'
+    - Princípios do Projeto: 'sprint01/Principios_Projeto.md'
   - Perfil do usuário:
     - Instrospecção: 'sprint01/introspeccao.md'
     - Perfil de usuário: 'sprint01/perfil.md'
@@ -44,4 +47,5 @@ pages:
   - Protótipo de Alta Fidelidade:
     - Protótipo: 'sprint01/prototipo_alta.md'
     - Avaliação do Protótipo: 'sprint01/avaliacaoAF.md'
+    - Teste de Usabilidade: 'sprint01/teste.md'
     - Análise Google Lighthouse: 'sprint01/lighthouse.md'
